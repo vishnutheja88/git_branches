@@ -1,0 +1,1 @@
+git rebase process of moving or combing a sequence of commis to a new base commit
